@@ -1,6 +1,6 @@
 # 💫 Hi, I'm Ines Chavez Vigueras
 
-👩🏽‍💻 Full Stack Software Engineer | 🎨 Creative Thinker | ♿ Accessibility Advocate<br>
+👩🏽‍💻 Full Stack Software Engineer | 🎨 Creative Thinker 
 <br>💡 A little bit about me! <br>
 <br>I'm Ines, a full stack engineer with a Latinx background, a first-gen mindset, and a passion for building accessible, human-centered software.<br><br>I approach engineering with a creative eye and systems thinking, aiming to make technology more inclusive, intuitive, and scalable. Whether I’m collaborating on open-source tools or designing custom apps for clients, I care just as much about the *why* as the *how*.<br><br>🚀 I recently co-developed [**Kubernetes Visualizer**](https://github.com/oslabs-beta/KubeEst8)—an open-source monitoring tool that helps engineers visualize their Kubernetes clusters in real time. It’s integrated with Prometheus and Grafana and designed with security, health, and performance in mind.<br><br>💬 Outside of code, I love crafting handmade crochet pieces and working directly with people with disabilities to promote accessibility, inclusion, and digital equity.<br>
 
